@@ -25,8 +25,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "lint": "eslint './**/*.js' './**/*.jsx' --ignore-path .eslintignore",
+    "lint:fix": "eslint --fix './**/*.js' './**/*.jsx'  --ignore-path .eslintignore"
   },
   "eslintConfig": {
     "extends": [
