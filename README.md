@@ -21,4 +21,4 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The site has been deployed here: [https://cryptoversewiki.netlify.app/](https://cryptoversewiki.netlify.app/)
